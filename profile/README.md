@@ -11,7 +11,7 @@
 ### Explore our latest blog posts:
 
 <!--START_SECTION:techblog-->
-* [Blue-Green deployments using AWS Fargate and AWS CodeDeploy](
+* [Blue-Blue deployments using AWS Fargate and AWS CodeDeploy](
                 https:&#x2F;&#x2F;globaldatanet.com&#x2F;tech-blog&#x2F;blue-green-deployments-using-aws-fargate-and-aws-codedeploy)
 * [AWS IAM Identity Center Permission Management at Scale Part 2](
                 https:&#x2F;&#x2F;globaldatanet.com&#x2F;tech-blog&#x2F;aws-iam-identity-center-permission-management-at-scale-part-2)
